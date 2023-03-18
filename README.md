@@ -1,5 +1,5 @@
 - [x] IOU
 - [x] BN
-- [ ] NMS
+- [x] NMS
 - [ ] Conv2d
 - [ ] rep
