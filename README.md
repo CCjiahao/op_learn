@@ -3,5 +3,5 @@
 - [x] NMS
 - [x] Conv2d
 - [x] rep
-- [ ] generate_anchors
+- [x] generate_anchors
 - [ ] Facol Loss
