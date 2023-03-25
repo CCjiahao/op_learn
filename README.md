@@ -4,4 +4,4 @@
 - [x] Conv2d
 - [x] rep
 - [x] generate_anchors
-- [ ] Facol Loss
+- [x] Facol Loss
