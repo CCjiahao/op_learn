@@ -5,3 +5,5 @@
 - [x] rep
 - [x] generate_anchors
 - [x] Facol Loss
+- [ ] IN
+- [ ] LN
